@@ -16,7 +16,7 @@ class Create extends Component
 
     public function render()
     {
-        return view('livewire.cliente.blade.php');
+        return view('livewire.cliente.create');
     }
 
     public function store()
